@@ -27,7 +27,7 @@ In Claude Code, add this repository as a marketplace and install the plugin:
 
 ```
 /plugin marketplace add jvidalv/cims-plugin
-/plugin install cims@cims
+/plugin install fescims@fescims
 ```
 
 In Claude chat or Cowork, install it from Claude's directory once it is listed

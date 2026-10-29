@@ -1,5 +1,5 @@
 {
-  "name": "cims",
+  "name": "fescims",
   "description": "The Cims plugin for Claude: mountain trips across Catalonia, the Pyrenees and Spain.",
   "owner": {
     "name": "Cims",
@@ -7,7 +7,7 @@
   },
   "plugins": [
     {
-      "name": "cims",
+      "name": "fescims",
       "source": "./",
       "description": "Plan hikes, summits, multi-day traversals, via ferratas, canyons and climbing crags with the Cims catalogue."
     }

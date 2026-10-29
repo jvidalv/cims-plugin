@@ -1,6 +1,6 @@
 {
   "mcpServers": {
-    "cims": {
+    "fescims": {
       "type": "http",
       "url": "https://api.fescims.com/api/mcp"
     }
