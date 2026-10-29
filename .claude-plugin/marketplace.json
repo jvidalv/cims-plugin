@@ -2,7 +2,7 @@
   "name": "fescims",
   "description": "The Cims plugin for Claude: mountain trips across Catalonia, the Pyrenees and Spain.",
   "owner": {
-    "name": "Cims",
+    "name": "Cims (fescims.com)",
     "url": "https://fescims.com"
   },
   "plugins": [
