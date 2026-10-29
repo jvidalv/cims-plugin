@@ -9,15 +9,15 @@ Use the Cims connector's tools, in the user's language. Searches near a place ta
 
 ## Via ferratas
 
-`search_ferratas` filters by `grade` band (easy is K1, moderate K2–K3, hard K4, extreme K5–K6), `feature` (zip-line, bridge), `country`, `region` (a province code such as ES-L for Lleida; ES-CT, Catalonia as a whole, matches nothing) and `openOnly`. `get_ferrata` gives the K grade, cable length, drop, approach, route and descent times, status and ratings.
+`search_ferratas` filters by `grade` band (easy is K1, moderate K2–K3, hard K4, extreme K5–K6), `feature` (zip-line, bridge), `country`, `region` and `openOnly`. `region` is a province code such as ES-L for Lleida, here and on canyons and crags; ES-CT, Catalonia as a whole, matches nothing, so search near a point or run one search per province. `get_ferrata` gives the K grade, cable length, drop, approach, route and descent times, status and ratings.
 
 ## Canyons
 
-`search_canyons` filters by `grade` band and `water` (dry or aquatic). `get_canyon` gives the vertical and aquatic grades, commitment, number and length of rappels, the rope and wetsuit needed, timings, escape points and restrictions.
+`search_canyons` filters by `grade` band, `water` (dry or aquatic), `country` and `region`. `get_canyon` gives the vertical and aquatic grades, commitment, number and length of rappels, the rope and wetsuit needed, timings, escape points and restrictions.
 
 ## Crags
 
-`search_crags` filters by `grade` band, `approachMax` in minutes and `accessOpen`. Its `discipline` and `season` filters only match crags that record them, and most don't yet, so search without them and judge style and season from `get_crag`, which lists the sectors with their aspect, approach and first routes, the rock and any access restriction.
+`search_crags` filters by `grade` band, `approachMax` in minutes, `accessOpen`, `country` and `region` (a few lowland crags have no province). Its `discipline` and `season` filters only match crags that record them, and most don't yet, so search without them and judge style and season from `get_crag`, which lists the sectors with their aspect, approach and first routes, the rock and any access restriction.
 
 ## Answer
 
