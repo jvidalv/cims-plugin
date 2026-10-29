@@ -9,7 +9,7 @@ Use the Cims connector's tools, in the user's language. Searches near a place ta
 
 ## Via ferratas
 
-`search_ferratas` filters by `grade` band (easy is K1, moderate K2–K3, hard K4, extreme K5–K6), `feature` (zip-line, bridge), `country`, `region` and `openOnly`. `get_ferrata` gives the K grade, cable length, drop, approach, route and descent times, status and ratings.
+`search_ferratas` filters by `grade` band (easy is K1, moderate K2–K3, hard K4, extreme K5–K6), `feature` (zip-line, bridge), `country`, `region` (a province code such as ES-L for Lleida; ES-CT, Catalonia as a whole, matches nothing) and `openOnly`. `get_ferrata` gives the K grade, cable length, drop, approach, route and descent times, status and ratings.
 
 ## Canyons
 

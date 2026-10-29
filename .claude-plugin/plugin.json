@@ -1,7 +1,7 @@
 {
   "name": "cims",
   "displayName": "Cims",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Plan hikes, summits, multi-day traversals, via ferratas, canyons and climbing crags across Catalonia, the Pyrenees and Spain with the Cims catalogue: peaks, GPS trails, community ratings and validated summits.",
   "author": { "name": "Cims", "url": "https://fescims.com" },
   "homepage": "https://fescims.com/en/ai",
